@@ -1,10 +1,19 @@
-- 👋 Hi, I’m @DATaxelBase
-- 👀 I love data and want to start a great challenge in one way to increase my data analysis skills and also provide people more interest about what wonderfull things we can make with data.
-- 🌱 I work almost of time on data analysis and data science project.
-- 💞️ I’m looking to collaborate on any intersting project anybody want to suggest me.
-- 📫 How to reach me : So for more details about my projects or to discuss with me , feel free to write me on this mail address: axel.damatha@gmail.com
 
-✨Welcome again. Hope you will enjoy.✨
+👋 Hi, I’m @DATaxelBase
+After a few months, I am finally available to travel with you on many projects. This project will help you discover all the intricacies of EDA (Exploratory Data Analysis) and pursue machine learning for prediction. :smile:
+
+**The following plan will be applied to all projects:**
+1. Problem Definition
+2. Hypothesis Generation
+3. Data Extraction /Collection
+4. Data Exploration and Transformation
+5. Predictive Modeling
+6. Model Deployement/Implementation
+
+In the first notebook, you will find the four first sections, the second will cover the prediction part. Are you ready?:nerd_face:</br>
+So our first project will be :taxi: `NYC Taxi Trip Duration `:taxi:.
+
+✨Welcome again. Hope you will enjoy.✨:wink:
 <!---
 DATaxelBase/DATaxelBase next challenge, great dataset (^-^). Let's going on
 --->
