@@ -34,5 +34,11 @@ Let's separate context on:
 > Does the traffic at certain hours of day affect the duration trip?
 [Back to plan](#project-steps)
 ---
-### Data Extraction
+## Data Extraction
 The data of this project were provided into the Analytic Vidhya Machine Learning course. But you could find similar dataset on Kaggle or any other source. You will find in folder the dataset used.
+
+## Data Exploration and Transformation
+See notebook in repository :notebook:. 
+
+---
+
