@@ -42,4 +42,4 @@ See notebook in repository :notebook:.
 
 ---
 ### Predictive Modeling
-See this part in NYC_Trip_Modeling notebook 
+See this part in NYC_Trip_Modeling notebook 📓. 
