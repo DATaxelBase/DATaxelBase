@@ -41,4 +41,5 @@ The data of this project were provided into the Analytic Vidhya Machine Learning
 See notebook in repository :notebook:. 
 
 ---
-
+### Predictive Modeling
+See this part in NYC_Trip_Modeling notebook 📓. 
