@@ -7,7 +7,6 @@ Let's follow the plan :point_down:
 3. [Data Extraction](#data-extraction)
 4. [Data Exploration and Transformation](#data-exploration-and-transformation)
 5. [Predictive Modeling](#predictive-modeling)
-6. [Model Deployement/Implementation](#model-deployement-implementation)
 ---
 
 ## Problem Definition
