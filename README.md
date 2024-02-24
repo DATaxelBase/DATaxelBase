@@ -12,6 +12,7 @@ After a few months, I am finally available to travel with you on many projects. 
 
 In the first notebook, you will find the four first sections, the second will cover the prediction part. Are you ready?:nerd_face:</br>
 So our first project will be :taxi: `NYC Taxi Trip Duration `:taxi:.
+For further projects, go into my DATaxelBase :relaxed:
 
 ✨Welcome again. Hope you will enjoy.✨:wink:
 <!---
