@@ -17,7 +17,7 @@ For further projects, go into my DATaxelBase :relaxed:
 
 **Summary of projects coverd :**
 1. NYC Taxi Trip Duration
-2. Titanic Survival next week (^-^) 
+2. Titanic Survival
 ✨Welcome again. Hope you will enjoy.✨:wink:
 <!---
 DATaxelBase/DATaxelBase next challenge, great dataset (^-^). Let's going on
